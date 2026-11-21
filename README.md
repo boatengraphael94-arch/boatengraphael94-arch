@@ -1,6 +1,5 @@
 # Hi, I'm Raphael 👋
-
-Level 200 Computer Science student at the **University of Cape Coast, Ghana** 🇬🇭, focused on **cybersecurity** and **software development**.
+ Computer Science student at the **University of Cape Coast, Ghana** 🇬🇭, focused on **cybersecurity** and **software development**.
 
 ## 🔭 What I'm working on
 - Building my personal portfolio website
